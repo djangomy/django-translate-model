@@ -20,7 +20,7 @@ Vamos utilizar uma biblioteca.
 
 Documentação: [https://pypi.org/project/django-modeltranslation/](https://pypi.org/project/django-modeltranslation/)
 
-<details><summary><b>aaaaaaaaaaaaa</b></summary>
+<details><summary><b>Configurar no Settings</b></summary>
 
 - **Configurar no Settings**
     
@@ -49,7 +49,7 @@ Documentação: [https://pypi.org/project/django-modeltranslation/](https://pypi
 
 </details>
 
-<details><summary><b>aaaaaaaaaaaaa</b></summary>
+<details><summary><b>Criando Modelo</b></summary>
 
 - **Criando Modelo**
     
@@ -154,7 +154,7 @@ Documentação: [https://pypi.org/project/django-modeltranslation/](https://pypi
 
 </details>
 
-<details><summary><b>aaaaaaaaaaaaa</b></summary>
+<details><summary><b>Lista Artigos na Home</b></summary>
 
 - **Lista Artigos na Home**
     
