@@ -118,8 +118,6 @@ Documentação: [https://pypi.org/project/django-modeltranslation/](https://pypi
     
     No Django Admin estará assim. como definimos `group_fieldsets = True` fica uma faixa azul separando os grupos de campos que precisa ser traduzido. O Class Media deixa essas Aba com visual legal.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f08837c-a79f-4767-a363-f0b82c7d1e80/Untitled.png)
-    
     Outra observação.
     
     `django-admin makemessages --all --ignore=env`
@@ -218,15 +216,7 @@ Documentação: [https://pypi.org/project/django-modeltranslation/](https://pypi
     </body>
     
     </html>
-    ```
-    
-    Padrão (pt_br)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40d6779b-9a26-45df-bb80-fefb55e571d4/Untitled.png)
-    
-    (en)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c71db63b-8bd5-452b-acff-9314b325e963/Untitled.png)
+    ``` 
 
 </details>
 
